@@ -1,4 +1,5 @@
 dcpm.github.io
 ==============
 
-DCPM: Critical Path Method of Project Management re-engineered
+DCPM: Dynamic Critical Path Method of Project Management
+CPM re-engineered

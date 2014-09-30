@@ -1,4 +1,4 @@
-dcpm.github.io
+xdcpm.github.io
 ==============
 
-DCPM: Dynamic Critical Path Method of Project Management; CPM re-engineered
+XDCPM: eXtra Dynamic Critical Path Method of Project Management; CPM re-engineered

@@ -10,7 +10,7 @@ Parallel development of a git repository
 
 To explain practical, common git processes, let's use an existing scenario for an example.
 
-![Image of workflow is diagramed in file xdcpm-parallel-dev-process1.dia](https://xdcpm.github.io/images/xdcpm-parallel-dev-process1.png)
+![Image of workflow is diagramed in file xdcpm-parallel-dev-process1.dia](images/xdcpm-parallel-dev-process1.png)
 
 
 http://github.com/openacs/openacs-core is a release (read-only) repository.
@@ -20,9 +20,6 @@ Additional assumptions for this example:
 * xdcpm/openacs-core, other-dev1/openacs-core, and other-dev2/openacs-core are forks of openacs/openacs-core
 * xdcpm-dev is an account of a developer with read/write permissions for xdcpm/openacs-core.
 * other-dev1 and other-dev2 are accounts of independent developers with read permission for xdcpm/openacs-core; 
-
-![Image of workflow is diagramed in file xdcpm-parallel-dev-process1.dia](https://xdcpm.github.io/images/xdcpm-parallel-dev-process1.png)
-
 
 First time, each developer has cloned the repository:
 

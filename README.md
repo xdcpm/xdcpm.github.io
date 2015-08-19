@@ -10,6 +10,9 @@ Parallel development of a git repository
 
 To explain practical, common git processes, let's use an existing scenario for an example.
 
+![Image of workflow is diagramed in file xdcpm-parallel-dev-process1.dia](https://xdcpm.github.io/images/xdcpm-parallel-dev-process1.png)
+
+
 http://github.com/openacs/openacs-core is a release (read-only) repository.
 
 Additional assumptions for this example:

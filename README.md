@@ -18,6 +18,9 @@ Additional assumptions for this example:
 * xdcpm-dev is an account of a developer with read/write permissions for xdcpm/openacs-core.
 * other-dev1 and other-dev2 are accounts of independent developers with read permission for xdcpm/openacs-core; 
 
+![Image of workflow is diagramed in file xdcpm-parallel-dev-process1.dia](https://xdcpm.github.io/images/xdcpm-parallel-dev-process1.png)
+
+
 First time, each developer has cloned the repository:
 
     git clone https://github.com/xdcpm/openacs-core.git
